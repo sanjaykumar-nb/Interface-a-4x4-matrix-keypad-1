@@ -15,9 +15,9 @@ STM32 CUBE IDE, Proteus 8 simulator .
  
 ## Program
 
-### Name : Samakash R S
+### Name : SANJAYKUMAR N B
 
-### Reg no : 212223230182
+### Reg no : 212223230189
 
 ```c
 #include "main.h"
